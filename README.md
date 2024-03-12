@@ -1,6 +1,6 @@
 I am Piyush Kumar. Currently pursuing B.tech in GNDE College Ludhiana.
 My Hobby is playing "Chess". 
-I am also a "NCC" Cadet. So i follow Discipline.
+I am also a "NCC" Cadet. 
 
 
 <!---
